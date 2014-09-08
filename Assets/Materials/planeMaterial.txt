@@ -1,0 +1,15 @@
+// Effect
+<effect>
+	alphaBinaryNormalEnvironmentEffect.txt
+</effect>
+
+// Texture
+<texture>
+	hepatica.png
+	hepatica_NRM.png
+</texture>
+
+// Environment reflectivity
+<reflectance>
+	0.7
+</reflectance>

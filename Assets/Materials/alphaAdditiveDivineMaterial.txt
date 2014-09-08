@@ -1,0 +1,14 @@
+// Effect
+<effect>
+	alphaAdditiveEffect.txt
+</effect>
+
+// Texture
+<texture>
+	divine.png
+</texture>
+
+// Transparency
+<transparency>
+	1.0
+</transparency>

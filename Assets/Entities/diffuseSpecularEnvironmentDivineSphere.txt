@@ -1,0 +1,9 @@
+// Mesh
+<mesh>
+	Sphere.txt
+</mesh>
+
+// Material
+<material>
+	diffuseSpecularEnvironmentDivineMaterial.txt
+</material>

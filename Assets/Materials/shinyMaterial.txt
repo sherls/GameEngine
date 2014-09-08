@@ -1,0 +1,9 @@
+// Effect
+<effect>
+	shinyEffect.txt
+</effect>
+
+// Texture
+<texture>
+	chess.png
+</texture>

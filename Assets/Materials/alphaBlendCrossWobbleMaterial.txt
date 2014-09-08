@@ -1,0 +1,14 @@
+// Effect
+<effect>
+	alphaBlendWobbleEffect.txt
+</effect>
+
+// Texture
+<texture>
+	cross.png
+</texture>
+
+// Transparency
+<transparency>
+	0.5
+</transparency>

@@ -1,0 +1,24 @@
+// Vertices
+<vertex>
+1
+{
+	<position>
+		0.0, 0.0, 0.0
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0.0, 0.0, -1.0
+	</normal>
+	<uv>
+		0, 1
+	</uv>
+}
+</vertex>
+
+// Indices
+<index>
+3
+	0, 0, 0
+</index>

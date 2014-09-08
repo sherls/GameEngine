@@ -1,0 +1,21 @@
+// Vertex shader
+<vertexShader>
+	normalMap.vp
+</vertexShader>
+
+// Fragment shader
+<fragmentShader>
+	alphaBinaryNormalMap.fp
+	alphaBinaryDepth.fp
+</fragmentShader>
+
+// Render state
+<renderState>
+	alpha_binary
+</renderState>
+
+// Texture mode
+<textureMode>
+	diffuse_map
+	normal_map
+</textureMode>

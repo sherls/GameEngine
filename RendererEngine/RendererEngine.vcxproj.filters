@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Window">
+      <UniqueIdentifier>{13ea2827-e59c-44cc-93ec-5e9cce14d99e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="VertexFormat">
+      <UniqueIdentifier>{7b0e90bb-9df1-448f-bdbb-0066dbc52c33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logging">
+      <UniqueIdentifier>{ae4ddf64-b853-4dc3-a72b-780572e1ab1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{91382593-6e87-40b8-a496-e0f88ce0befb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Loader">
+      <UniqueIdentifier>{6be9ea10-28ed-46cc-882d-c03d712daf19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Setter">
+      <UniqueIdentifier>{b293049e-1a4e-40b4-8cfc-9a744dd5476a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainRenderer">
+      <UniqueIdentifier>{6975b140-474c-4e5e-b269-b64413b8b813}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quad">
+      <UniqueIdentifier>{4986032a-6232-454f-93d9-0d9dddf98604}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Line">
+      <UniqueIdentifier>{65f14b01-04c4-4cd8-a698-6c5446cbad83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Text">
+      <UniqueIdentifier>{ce507ac8-a4e4-4d73-a2c7-8f87dda9f7a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sphere">
+      <UniqueIdentifier>{bcb1769a-3988-4bc9-ba07-127121923b42}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="_Source\Window\Window.cpp">
+      <Filter>Window</Filter>
+    </ClCompile>
+    <ClCompile Include="_Source\VertexFormat\VertexFormat.cpp">
+      <Filter>VertexFormat</Filter>
+    </ClCompile>
+    <ClCompile Include="_Source\Logging\Logging.cpp">
+      <Filter>Logging</Filter>
+    </ClCompile>
+    <ClCompile Include="_Source\RendererEngine.cpp" />
+    <ClCompile Include="_Source\Renderer\MainRenderer.cpp">
+      <Filter>MainRenderer</Filter>
+    </ClCompile>
+    <ClCompile Include="_Source\Loader\Loader.cpp">
+      <Filter>Loader</Filter>
+    </ClCompile>
+    <ClCompile Include="_Source\Setter\Setter.cpp">
+      <Filter>Setter</Filter>
+    </ClCompile>
+    <ClCompile Include="_Source\Quad\Quad.cpp">
+      <Filter>Quad</Filter>
+    </ClCompile>
+    <ClCompile Include="_Source\Line\Line.cpp">
+      <Filter>Line</Filter>
+    </ClCompile>
+    <ClCompile Include="_Source\Text\Text.cpp">
+      <Filter>Text</Filter>
+    </ClCompile>
+    <ClCompile Include="_Source\Sphere\Sphere.cpp">
+      <Filter>Sphere</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="_Source\Window\Window.h">
+      <Filter>Window</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\VertexFormat\VertexFormat.h">
+      <Filter>VertexFormat</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\Logging\Logging.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\Resources\resource.h">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\RendererEngine.h" />
+    <ClInclude Include="_Source\Renderer\MainRenderer.h">
+      <Filter>MainRenderer</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\Loader\Loader.h">
+      <Filter>Loader</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\RendererEngineTypes.h" />
+    <ClInclude Include="_Source\Setter\Setter.h">
+      <Filter>Setter</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\Quad\Quad.h">
+      <Filter>Quad</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\Text\Text.h">
+      <Filter>Text</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\Line\Line.h">
+      <Filter>Line</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\Sphere\Sphere.h">
+      <Filter>Sphere</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="_Source\Resources\Renderer.aps">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="_Source\Resources\Renderer.ico">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="_Source\Resources\small.ico">
+      <Filter>Resources</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="_Source\Resources\Renderer.rc">
+      <Filter>Resources</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

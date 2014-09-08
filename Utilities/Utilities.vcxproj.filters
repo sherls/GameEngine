@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Singleton">
+      <UniqueIdentifier>{1e167baa-786e-42c4-8b0f-0c9198db75b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Parser">
+      <UniqueIdentifier>{60d06651-0bf2-4c55-984f-4031729b2f91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="StringHash">
+      <UniqueIdentifier>{f3de94cf-0d91-4888-885e-f0a45acd2b1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BitWise">
+      <UniqueIdentifier>{5982a3ad-6a1e-44ea-98ca-d51a5d5c1a37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MemoryPool">
+      <UniqueIdentifier>{ba9051a5-585b-4d85-8ecb-c89074b94827}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RingBuffer">
+      <UniqueIdentifier>{feab394e-6002-4058-a5ab-76f33d260691}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SmartPtr">
+      <UniqueIdentifier>{30e491ea-c3f8-4d3f-a98b-9a1bfd8f08fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Parser\MeshParser">
+      <UniqueIdentifier>{f66cac68-d6b5-4073-9673-52cc59725779}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Parser\EffectParser">
+      <UniqueIdentifier>{f47a6e77-806e-4e00-b8d8-a2dd282a4a84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Parser\EntityParser">
+      <UniqueIdentifier>{c6322fa2-c337-475a-9862-22b9d25876de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Parser\MaterialParser">
+      <UniqueIdentifier>{c51dda5e-87a3-4a2d-b02e-b46bfdfb0e4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Debug">
+      <UniqueIdentifier>{029cfc4a-f5e9-41e6-9f97-1cc57d34b9da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Target">
+      <UniqueIdentifier>{b511cd82-3b23-474d-8518-187340506bd6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Time">
+      <UniqueIdentifier>{84e42895-21b5-418b-a3a3-048d07723d79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Parser\SceneParser">
+      <UniqueIdentifier>{8ceed5b5-9034-43d0-8613-39b8583ccb74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Math">
+      <UniqueIdentifier>{31b554a2-b72d-4b7b-8ff4-d972010fabeb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="_Source\Parser\ParserHelper.cpp">
+      <Filter>Parser</Filter>
+    </ClCompile>
+    <ClCompile Include="_Source\Parser\MeshParser\MeshParser.cpp">
+      <Filter>Parser\MeshParser</Filter>
+    </ClCompile>
+    <ClCompile Include="_Source\Utilities.cpp" />
+    <ClCompile Include="_Source\BitWise\BitWise.cpp">
+      <Filter>BitWise</Filter>
+    </ClCompile>
+    <ClCompile Include="_Source\MemoryPool\MemoryPool.cpp">
+      <Filter>MemoryPool</Filter>
+    </ClCompile>
+    <ClCompile Include="_Source\SmartPtr\SmartPtr.cpp">
+      <Filter>SmartPtr</Filter>
+    </ClCompile>
+    <ClCompile Include="_Source\StringHash\StringHash.cpp">
+      <Filter>StringHash</Filter>
+    </ClCompile>
+    <ClCompile Include="_Source\Parser\EffectParser\EffectParser.cpp">
+      <Filter>Parser\EffectParser</Filter>
+    </ClCompile>
+    <ClCompile Include="_Source\Parser\EntityParser\EntityParser.cpp">
+      <Filter>Parser\EntityParser</Filter>
+    </ClCompile>
+    <ClCompile Include="_Source\Parser\MaterialParser\MaterialParser.cpp">
+      <Filter>Parser\MaterialParser</Filter>
+    </ClCompile>
+    <ClCompile Include="_Source\Debug\Debug.cpp">
+      <Filter>Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="_Source\Time\Time.cpp">
+      <Filter>Time</Filter>
+    </ClCompile>
+    <ClCompile Include="_Source\Parser\SceneParser\SceneParser.cpp">
+      <Filter>Parser\SceneParser</Filter>
+    </ClCompile>
+    <ClCompile Include="_Source\Math\Math.cpp">
+      <Filter>Math</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="_Source\Parser\ParserHelper.h">
+      <Filter>Parser</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\Parser\TagList.h">
+      <Filter>Parser</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\Parser\MeshParser\MeshParser.h">
+      <Filter>Parser\MeshParser</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\Utilities.h" />
+    <ClInclude Include="_Source\Singleton\Singleton.h">
+      <Filter>Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\BitWise\BitWise.h">
+      <Filter>BitWise</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\MemoryPool\MemoryPool.h">
+      <Filter>MemoryPool</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\SmartPtr\SmartPtr.h">
+      <Filter>SmartPtr</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\RingBuffer\RingBuffer.h">
+      <Filter>RingBuffer</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\StringHash\StringHash.h">
+      <Filter>StringHash</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\Parser\EffectParser\EffectParser.h">
+      <Filter>Parser\EffectParser</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\Parser\EntityParser\EntityParser.h">
+      <Filter>Parser\EntityParser</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\Parser\MaterialParser\MaterialParser.h">
+      <Filter>Parser\MaterialParser</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\Debug\Debug.h">
+      <Filter>Debug</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\UtilitiesDefault.h" />
+    <ClInclude Include="_source\UtilitiesTypes.h" />
+    <ClInclude Include="_Source\Target\Target.h">
+      <Filter>Target</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\Target\Target.Win32.h">
+      <Filter>Target</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\Time\Time.h">
+      <Filter>Time</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\Parser\SceneParser\SceneParser.h">
+      <Filter>Parser\SceneParser</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\Math\Math.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="_Source\Parser\MeshParser\MeshParser.inl">
+      <Filter>Parser\MeshParser</Filter>
+    </None>
+    <None Include="_Source\Singleton\Singleton.inl">
+      <Filter>Singleton</Filter>
+    </None>
+    <None Include="_Source\BitWise\BitWise.inl">
+      <Filter>BitWise</Filter>
+    </None>
+    <None Include="_Source\MemoryPool\MemoryPool.inl">
+      <Filter>MemoryPool</Filter>
+    </None>
+    <None Include="_Source\SmartPtr\SmartPtr.inl">
+      <Filter>SmartPtr</Filter>
+    </None>
+    <None Include="_Source\RingBuffer\RingBuffer.inl">
+      <Filter>RingBuffer</Filter>
+    </None>
+    <None Include="_Source\StringHash\StringHash.inl">
+      <Filter>StringHash</Filter>
+    </None>
+    <None Include="_Source\Parser\EffectParser\EffectParser.inl">
+      <Filter>Parser\EffectParser</Filter>
+    </None>
+    <None Include="_Source\Parser\EntityParser\EntityParser.inl">
+      <Filter>Parser\EntityParser</Filter>
+    </None>
+    <None Include="_Source\Parser\MaterialParser\MaterialParser.inl">
+      <Filter>Parser\MaterialParser</Filter>
+    </None>
+    <None Include="_Source\Parser\SceneParser\SceneParser.inl">
+      <Filter>Parser\SceneParser</Filter>
+    </None>
+  </ItemGroup>
+</Project>

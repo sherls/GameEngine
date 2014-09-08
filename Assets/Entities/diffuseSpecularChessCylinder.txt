@@ -1,0 +1,9 @@
+// Mesh
+<mesh>
+	Cylinder.txt
+</mesh>
+
+// Material
+<material>
+	diffuseSpecularChessMaterial.txt
+</material>

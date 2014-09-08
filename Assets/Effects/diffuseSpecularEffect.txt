@@ -1,0 +1,20 @@
+// Vertex shader
+<vertexShader>
+	example.vp
+</vertexShader>
+
+// Fragment shader
+<fragmentShader>
+	diffuseSpecular.fp
+	depth.fp
+</fragmentShader>
+
+// Render state
+<renderState>
+	alpha_none
+</renderState>
+
+// Texture mode
+<textureMode>
+	diffuse_map
+</textureMode>

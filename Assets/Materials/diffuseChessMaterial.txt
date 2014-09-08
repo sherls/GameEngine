@@ -1,0 +1,9 @@
+// Effect
+<effect>
+	diffuseEffect.txt
+</effect>
+
+// Texture
+<texture>
+	chess.png
+</texture>

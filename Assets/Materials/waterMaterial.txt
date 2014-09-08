@@ -1,0 +1,19 @@
+// Effect
+<effect>
+	softIntersectionEnvironmentMapEffect.txt
+</effect>
+
+// Texture
+<texture>
+	water.png
+</texture>
+
+// Environment reflectivity
+<reflectance>
+	0.4
+</reflectance>
+
+// Transparency
+<transparency>
+	0.3
+</transparency>

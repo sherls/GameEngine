@@ -1,0 +1,9 @@
+// Effect
+<effect>
+	plainEffect.txt
+</effect>
+
+// Texture
+<texture>
+	example1.png
+</texture>

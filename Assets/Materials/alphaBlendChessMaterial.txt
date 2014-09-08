@@ -1,0 +1,14 @@
+// Effect
+<effect>
+	alphaBlendEffect.txt
+</effect>
+
+// Texture
+<texture>
+	chess.png
+</texture>
+
+// Transparency
+<transparency>
+	0.2
+</transparency>

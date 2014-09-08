@@ -1,0 +1,12 @@
+// Effect
+<effect>
+	diffuseNormalEffect.txt
+</effect>
+
+// Texture
+<NormalMap>
+	exampleNormalMap.png
+</NormalMap>
+<texture>
+	example1.png
+</texture>

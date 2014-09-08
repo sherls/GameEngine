@@ -1,0 +1,14 @@
+// Effect
+<effect>
+	diffuseSpecularEffect.txt
+</effect>
+
+// Texture
+<texture>
+	example2.png
+</texture>
+
+// Specular exponent
+<shininess>
+	25
+</shininess>

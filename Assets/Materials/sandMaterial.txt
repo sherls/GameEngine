@@ -1,0 +1,19 @@
+// Effect
+<effect>
+	diffuseEffect.txt
+</effect>
+
+// Texture
+<texture>
+	sand.png
+</texture>
+
+// Environment reflectivity
+<reflectance>
+	0.0
+</reflectance>
+
+// Transparency
+<transparency>
+	1.0
+</transparency>

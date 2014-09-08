@@ -1,0 +1,19 @@
+// Effect
+<effect>
+	diffuseSpecularEnvironmentMapEffect.txt
+</effect>
+
+// Texture
+<texture>
+	divine.png
+</texture>
+
+// Specular constat
+<shininess>
+	50
+</shininess>
+
+// Environment reflectivity
+<reflectance>
+	0.5
+</reflectance>

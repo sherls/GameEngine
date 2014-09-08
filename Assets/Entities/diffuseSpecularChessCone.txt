@@ -1,0 +1,9 @@
+// Mesh
+<mesh>
+	Cone.txt
+</mesh>
+
+// Material
+<material>
+	diffuseSpecularChessMaterial.txt
+</material>

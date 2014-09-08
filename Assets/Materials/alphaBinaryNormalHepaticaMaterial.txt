@@ -1,0 +1,10 @@
+// Effect
+<effect>
+	alphaBinaryNormalEffect.txt
+</effect>
+
+// Texture
+<texture>
+	hepatica.png
+	hepatica_NRM.png
+</texture>

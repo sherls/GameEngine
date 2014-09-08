@@ -1,0 +1,499 @@
+<vertex>
+24
+{
+	<position>
+		-1, -1, 1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 0, 1
+	</normal>
+	<tangent>
+		1, 0, 0
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		-0.000566602, -1.00353
+	</uv>
+}
+{
+	<position>
+		-1, -1, 1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, -1, 0
+	</normal>
+	<tangent>
+		1, 0, 0
+	</tangent>
+	<biNormal>
+		0, 0, -1
+	</biNormal>
+	<uv>
+		-0.000566602, 3.00101
+	</uv>
+}
+{
+	<position>
+		-1, -1, 1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		-1, 0, 0
+	</normal>
+	<tangent>
+		0, 0, 1
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		-0.000566602, -1.00353
+	</uv>
+}
+{
+	<position>
+		1, -1, 1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, -1, 0
+	</normal>
+	<tangent>
+		1, 0, 0
+	</tangent>
+	<biNormal>
+		0, 0, -1
+	</biNormal>
+	<uv>
+		1.00057, 3.00101
+	</uv>
+}
+{
+	<position>
+		1, -1, 1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		1, 0, 0
+	</normal>
+	<tangent>
+		0, 0, -1
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		1.00057, -1.00353
+	</uv>
+}
+{
+	<position>
+		1, -1, 1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 0, 1
+	</normal>
+	<tangent>
+		1, 0, 0
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		1.00057, -1.00353
+	</uv>
+}
+{
+	<position>
+		-1, 1, 1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		-1, 0, 0
+	</normal>
+	<tangent>
+		0, 0, 1
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		-0.000566602, -0.0023922
+	</uv>
+}
+{
+	<position>
+		-1, 1, 1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 0, 1
+	</normal>
+	<tangent>
+		1, 0, 0
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		-0.000566602, -0.0023922
+	</uv>
+}
+{
+	<position>
+		-1, 1, 1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 1, 0
+	</normal>
+	<tangent>
+		1, 0, 0
+	</tangent>
+	<biNormal>
+		0, 0, 1
+	</biNormal>
+	<uv>
+		-0.000566602, -0.0023922
+	</uv>
+}
+{
+	<position>
+		1, 1, 1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		1, 0, 0
+	</normal>
+	<tangent>
+		0, 0, -1
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		1.00057, -0.0023922
+	</uv>
+}
+{
+	<position>
+		1, 1, 1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 0, 1
+	</normal>
+	<tangent>
+		1, 0, 0
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		1.00057, -0.0023922
+	</uv>
+}
+{
+	<position>
+		1, 1, 1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 1, 0
+	</normal>
+	<tangent>
+		1, 0, 0
+	</tangent>
+	<biNormal>
+		0, 0, 1
+	</biNormal>
+	<uv>
+		1.00057, -0.0023922
+	</uv>
+}
+{
+	<position>
+		-1, 1, -1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		-1, 0, 0
+	</normal>
+	<tangent>
+		1, 0, 0
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		-1.0017, -0.0023922
+	</uv>
+}
+{
+	<position>
+		-1, 1, -1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 1, 0
+	</normal>
+	<tangent>
+		1, 0, 0
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		-0.000566602, 0.998741
+	</uv>
+}
+{
+	<position>
+		-1, 1, -1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 0, -1
+	</normal>
+	<tangent>
+		1, 0, 0
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		-0.000566602, 0.998741
+	</uv>
+}
+{
+	<position>
+		1, 1, -1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		1, 0, 0
+	</normal>
+	<tangent>
+		1, 0, 0
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		2.0017, -0.0023922
+	</uv>
+}
+{
+	<position>
+		1, 1, -1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 1, 0
+	</normal>
+	<tangent>
+		1, 0, 0
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		1.00057, 0.998741
+	</uv>
+}
+{
+	<position>
+		1, 1, -1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 0, -1
+	</normal>
+	<tangent>
+		1, 0, 0
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		1.00057, 0.998741
+	</uv>
+}
+{
+	<position>
+		-1, -1, -1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 0, -1
+	</normal>
+	<tangent>
+		1, 0, 0
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		-0.000566602, 1.99987
+	</uv>
+}
+{
+	<position>
+		-1, -1, -1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, -1, 0
+	</normal>
+	<tangent>
+		1, 0, 0
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		-0.000566602, 1.99987
+	</uv>
+}
+{
+	<position>
+		-1, -1, -1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		-1, 0, 0
+	</normal>
+	<tangent>
+		1, 0, 0
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		-1.0017, -1.00353
+	</uv>
+}
+{
+	<position>
+		1, -1, -1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 0, -1
+	</normal>
+	<tangent>
+		1, 0, 0
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		1.00057, 1.99987
+	</uv>
+}
+{
+	<position>
+		1, -1, -1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, -1, 0
+	</normal>
+	<tangent>
+		1, 0, 0
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		1.00057, 1.99987
+	</uv>
+}
+{
+	<position>
+		1, -1, -1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		1, 0, 0
+	</normal>
+	<tangent>
+		1, 0, 0
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		2.0017, -1.00353
+	</uv>
+}
+</vertex>
+
+<index>
+36
+	0, 5, 7
+	7, 5, 10
+	8, 11, 13
+	13, 11, 16
+	14, 17, 18
+	18, 17, 21
+	19, 22, 1
+	1, 22, 3
+	4, 23, 9
+	9, 23, 15
+	20, 2, 12
+	12, 2, 6
+</index>

@@ -1,0 +1,10 @@
+// Effect
+<effect>
+	diffuseNormalEffect.txt
+</effect>
+
+// Texture
+<texture>
+	palm_bark.png
+	palm_bark_NRM.png
+</texture>

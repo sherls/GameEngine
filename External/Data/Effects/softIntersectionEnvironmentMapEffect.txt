@@ -1,0 +1,21 @@
+// Vertex shader
+<vertexShader>
+	example.vp
+</vertexShader>
+
+// Fragment shader
+<fragmentShader>
+	softIntersectionEnvironmentMap.fp
+</fragmentShader>
+
+// Render state
+<renderState>
+	alpha_blend
+</renderState>
+
+// Texture mode
+<textureMode>
+	diffuse_map
+	z_buffer
+	environment_map
+</textureMode>

@@ -1,0 +1,11014 @@
+<entity>
+1001
+{
+    <file>
+        flag_1.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        flag_2.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_4.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_5.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_6.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_7.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_8.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_9.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_11.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_12.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_13.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_14.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_15.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_16.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_18.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_19.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_20.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_21.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_22.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_24.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_25.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_26.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_27.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_30.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_31.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_32.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_113.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_114.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_115.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_130.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_131.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_132.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_135.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_136.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_137.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_139.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_140.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_143.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_144.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_233.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_234.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_235.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_236.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_237.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_238.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_240.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_147.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_148.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_149.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_150.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_151.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_152.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_153.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_154.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_156.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_157.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_158.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_159.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_160.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_161.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_163.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_164.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_165.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_166.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_167.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_169.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_170.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_171.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_172.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_173.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_174.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_175.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_176.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_177.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_179.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_183.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_193.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_194.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_195.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_196.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_197.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_203.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_204.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_205.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_206.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_208.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_209.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_210.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_212.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_213.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_215.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_216.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_217.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_218.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_219.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_220.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_221.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_222.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_223.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_225.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_226.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_224.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_227.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_228.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_229.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_230.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_231.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_232.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_239.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace1.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace2.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace3.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace4.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace5.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace6.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace7.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace8.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace9.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace10.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace11.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace12.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace13.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace14.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace15.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace16.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace17.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace18.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace19.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace20.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace21.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace22.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace23.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace26.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace27.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace28.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace29.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace30.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace31.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace32.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace33.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace34.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace35.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace36.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace37.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace38.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace39.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace40.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace41.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace42.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace43.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace44.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace45.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace46.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace47.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace48.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_brace49.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_12.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_13.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_14.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_15.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_16.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_17.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_18.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_19.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_20.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_21.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_22.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_23.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_24.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_25.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_26.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_27.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_28.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_29.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_30.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_31.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_32.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_33.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_34.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_35.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_36.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_37.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_38.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_39.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_40.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_41.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_42.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_43.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_44.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_45.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_46.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_47.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_48.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_49.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_50.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_51.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_52.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_53.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_54.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_55.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_56.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_57.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_58.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_59.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_60.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_62.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_63.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_64.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_65.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_66.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_67.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_68.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_69.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_70.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_72.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_73.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_74.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_75.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_76.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_77.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_78.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_79.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_80.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_81.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_82.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_84.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_85.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_86.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_87.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_88.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_89.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_90.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_91.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_92.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_93.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_94.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_95.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_96.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_97.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_98.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_99.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_100.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_101.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_102.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_103.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_104.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_105.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_106.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_107.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_108.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_109.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_110.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_111.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_112.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_113.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_114.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_115.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_116.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_117.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_118.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_119.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_120.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_121.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_2.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_3.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_4.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_5.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_6.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_11.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_26.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_48.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_49.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_24.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_66.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_67.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_68.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_69.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_70.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_73.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_76.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_77.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_78.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_79.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_80.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_83.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_84.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_85.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_107.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_108.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_118.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_123.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_124.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_125.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_126.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_127.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_130.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_131.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_132.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_133.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_134.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_135.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_136.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_137.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_138.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_139.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_140.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_141.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_142.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_143.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_144.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_145.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_146.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_147.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_148.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_149.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_150.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_151.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_152.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_39.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_45.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_44.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_43.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_42.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_41.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_40.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_115.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_114.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_113.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_112.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_111.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_110.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_109.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_108.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_107.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_106.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_105.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_104.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_103.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_102.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_101.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_100.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_38.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_37.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_36.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_35.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_34.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_33.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_32.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_99.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_98.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_97.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_96.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_95.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_94.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_93.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_92.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_91.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_90.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_89.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_88.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_87.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_86.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_85.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_84.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_83.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_82.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_53.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_52.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_49.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_48.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_47.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_46.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_45.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_79.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_78.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_42.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_41.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_37.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_36.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_35.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_34.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_33.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_42.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_41.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_30.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_29.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_26.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_25.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_24.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_23.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_22.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_38.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_37.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_19.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_18.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_6.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_5.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_4.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_3.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_2.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_26.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_27.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_28.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_29.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_30.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_31.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_32.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_33.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_153.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_1.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_2.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_3.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_4.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_5.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_6.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_7.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_8.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_11.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_12.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_13.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_17.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_37.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_73.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_75.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_76.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_77.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_78.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_79.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_80.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_81.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_82.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_83.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_84.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_85.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_87.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_88.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_89.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_90.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_91.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_92.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_93.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_94.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_95.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_96.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_97.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_98.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_99.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_124.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_126.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_127.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_128.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_129.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_130.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_131.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_132.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_133.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_134.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_135.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_136.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_137.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_138.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_139.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_140.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_141.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_142.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_143.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_144.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_145.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_146.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_147.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_148.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_149.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_150.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_151.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_152.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_153.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_154.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_155.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_156.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_157.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_158.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_159.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_160.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_161.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_162.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_163.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_164.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_165.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_166.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_167.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_168.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_1x5_16.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_1x5_25.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        base_box_.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        base_box_1.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        bridge.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        bridge_rail1.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        bridge_rail.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        stairs_.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        railing_incline_.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        polySurface1.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_window_.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_1x5_.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        railing_incline_1.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        door_way_.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        door_way_1.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        door_way_9.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        polySurface5.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        polySurface6.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x2_.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x2_3.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_1.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_7.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_8.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_20.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_17.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_5.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_7.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_1.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_4.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_3.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_1.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_1.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        corner_ceiling_.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        stairs_4.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        polySurface3.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        railing_incline_8.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        polySurface7.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        polySurface8.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_window_10.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_1x5_18.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        railing_incline_9.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        door_way_12.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        door_way_13.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        door_way_19.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_86.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x2_10.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x2_11.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_74.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_75.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_81.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_82.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_43.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_40.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_22.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_38.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_44.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_21.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_20.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_43.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_19.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_32.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_14.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_15.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        corner_ceiling_2.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        box_XL.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        box_small.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        box_XL1.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        box_small1.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        box_XL2.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        box_XL3.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        box_small2.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        box_XL4.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        box_small3.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        box_small4.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        box_XL5.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        box_XL11.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        box_small9.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        box_XL10.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        box_XL9.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        box_XL8.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        box_small8.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        box_XL7.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        box_small7.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        box_small6.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        box_small5.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        box_XL6.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        door_way_8.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        stairs_3.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        polySurface2.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        railing_incline_6.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_window_9.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_1x5_17.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        railing_incline_7.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        door_way_10.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        door_way_11.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_9.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_10.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_70.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_74.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x2_8.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x2_9.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_50.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_51.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_64.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_65.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_71.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_72.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_31.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_28.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_18.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_27.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_40.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_17.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_16.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_39.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_15.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_21.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_12.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_13.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        corner_ceiling_1.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace34.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace35.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        door_way_18.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        stairs_6.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        polySurface4.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        railing_incline_12.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_window_17.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_1x5_26.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        railing_incline_13.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        door_way_20.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        door_way_21.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_29.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_30.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_123.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_125.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x2_14.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x2_15.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_119.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_120.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_121.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_122.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_128.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_129.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_54.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_51.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_31.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_50.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_81.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_30.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_29.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_80.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_28.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_44.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_24.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_25.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        corner_ceiling_3.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace46.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace47.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        railing_incline_4.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        stairs_2.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        railing_incline_5.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        door_way_4.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_window_2.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_window_3.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_window_6.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_window_7.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_1x5_4.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_1x5_6.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        door_way_5.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_1x5_7.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_1x5_8.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_1x5_11.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        door_way_6.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        door_way_7.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_1x5_14.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_window_8.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_1.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_2.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_3.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_4.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_5.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_6.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_7.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_8.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_13.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_15.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_16.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_17.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_19.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        door_way_23.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_1x5_27.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_1x5_28.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x2_6.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_41.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_42.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_43.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_44.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_47.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_48.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_53.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x2_7.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_54.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_56.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_57.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_58.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_59.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_60.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_61.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_62.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_63.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_64.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_65.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_71.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x2_17.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_28.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_29.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_30.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_31.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_32.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_33.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_34.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_35.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_36.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_37.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_39.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_40.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_41.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_42.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_43.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_44.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_45.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_46.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_47.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_54.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_55.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_56.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_57.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_59.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_60.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_61.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_62.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_63.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_72.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_14.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_13.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_12.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_11.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_10.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_36.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_35.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_34.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_33.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_32.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_31.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_30.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_29.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_28.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_27.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_26.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_25.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_24.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_23.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_22.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_21.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_20.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_19.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_18.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_17.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_16.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_15.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_14.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_13.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_12.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_11.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_10.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_9.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_7.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_6.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_16.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_5.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_4.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_4.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_5.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_6.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_7.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_8.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_9.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_10.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_11.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_124.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_123.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_122.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_121.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_120.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_119.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_5.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_4.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_3.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_2.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_1.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace1.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace2.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace3.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace4.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace5.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace22.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace23.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace24.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace25.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace26.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace27.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace28.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace29.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace40.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace41.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace42.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace43.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_169.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        railing_incline_10.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        stairs_5.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        railing_incline_11.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        door_way_14.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_window_11.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_window_12.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_window_14.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_window_15.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_1x5_19.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_1x5_20.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        door_way_15.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_1x5_21.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_1x5_22.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_1x5_23.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        door_way_16.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        door_way_17.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_1x5_24.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_window_16.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_20.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_21.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_22.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_23.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_24.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_25.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_26.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_27.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_28.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_33.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_34.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_35.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_36.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_37.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        door_way_22.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_1x5_29.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_1x5_30.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_122.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x2_12.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_100.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_101.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_102.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_103.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_104.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_105.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_106.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_107.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x2_13.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_108.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_109.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_110.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_111.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_112.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_113.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_114.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_115.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_116.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_117.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_118.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_121.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x2_16.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_88.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_89.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_90.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_91.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_92.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_93.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_94.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_95.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_96.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_97.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_98.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_99.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_100.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_101.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_102.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_103.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_104.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_105.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_106.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_109.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_110.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_111.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_112.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_113.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_114.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_115.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_116.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_117.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_27.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_26.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_25.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_24.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_filler_23.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_77.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_76.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_75.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_74.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_73.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_72.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_71.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_70.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_69.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_68.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_67.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_66.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_65.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_64.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_63.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_62.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_61.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_60.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_59.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_58.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_57.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_56.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_55.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_54.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_53.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_52.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_51.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_50.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_48.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_47.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_2_39.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_46.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_brace_h_3_45.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_16.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_17.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_18.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_19.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_20.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_21.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_22.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_h_brase_1_23.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_192.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_191.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_190.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_189.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_188.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_3x3_187.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_11.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_10.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_9.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_8.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_7.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        ceiling_tile_6.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace6.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace7.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace8.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace9.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace10.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace11.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace13.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace14.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace16.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace17.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace18.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace19.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace20.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace21.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace36.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace37.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace38.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace39.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_11.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_12.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_66.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_67.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_52.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_53.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace30.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace31.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace32.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace33.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_31.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_cap_32.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_119.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_2x5_120.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_86.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        wall_vertical_brace_87.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace44.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace45.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace48.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+{
+    <file>
+        floor_brace49.txt
+    </file>
+    <position>
+        0, 0, 0
+    </position>
+    <orientation>
+        0
+    </orientation>
+}
+</entity>

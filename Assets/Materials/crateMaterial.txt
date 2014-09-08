@@ -1,0 +1,10 @@
+// Effect
+<effect>
+	diffuseNormalEffect.txt
+</effect>
+
+// Texture
+<texture>
+	crate.png
+	crate_NRM.png
+</texture>

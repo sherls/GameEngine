@@ -1,0 +1,9 @@
+// Mesh
+<mesh>
+	PlatonicSolid.txt
+</mesh>
+
+// Material
+<material>
+	diffuseSpecularChessMaterial.txt
+</material>

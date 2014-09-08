@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="EntryPoint.cpp" />
+    <ClCompile Include="FBXLoader.cpp" />
+    <ClCompile Include="Common.cpp" />
+    <ClCompile Include="Display\DisplayAnimation.cpp">
+      <Filter>Display</Filter>
+    </ClCompile>
+    <ClCompile Include="Display\DisplayCamera.cpp">
+      <Filter>Display</Filter>
+    </ClCompile>
+    <ClCompile Include="Display\DisplayCommon.cpp">
+      <Filter>Display</Filter>
+    </ClCompile>
+    <ClCompile Include="Display\DisplayGenericInfo.cpp">
+      <Filter>Display</Filter>
+    </ClCompile>
+    <ClCompile Include="Display\DisplayGlobalSettings.cpp">
+      <Filter>Display</Filter>
+    </ClCompile>
+    <ClCompile Include="Display\DisplayHierarchy.cpp">
+      <Filter>Display</Filter>
+    </ClCompile>
+    <ClCompile Include="Display\DisplayLight.cpp">
+      <Filter>Display</Filter>
+    </ClCompile>
+    <ClCompile Include="Display\DisplayLink.cpp">
+      <Filter>Display</Filter>
+    </ClCompile>
+    <ClCompile Include="Display\DisplayLODGroup.cpp">
+      <Filter>Display</Filter>
+    </ClCompile>
+    <ClCompile Include="Display\DisplayMarker.cpp">
+      <Filter>Display</Filter>
+    </ClCompile>
+    <ClCompile Include="Display\DisplayMaterial.cpp">
+      <Filter>Display</Filter>
+    </ClCompile>
+    <ClCompile Include="Display\DisplayMesh.cpp">
+      <Filter>Display</Filter>
+    </ClCompile>
+    <ClCompile Include="Display\DisplayNurb.cpp">
+      <Filter>Display</Filter>
+    </ClCompile>
+    <ClCompile Include="Display\DisplayPatch.cpp">
+      <Filter>Display</Filter>
+    </ClCompile>
+    <ClCompile Include="Display\DisplayPivotsAndLimits.cpp">
+      <Filter>Display</Filter>
+    </ClCompile>
+    <ClCompile Include="Display\DisplayPose.cpp">
+      <Filter>Display</Filter>
+    </ClCompile>
+    <ClCompile Include="Display\DisplayShape.cpp">
+      <Filter>Display</Filter>
+    </ClCompile>
+    <ClCompile Include="Display\DisplaySkeleton.cpp">
+      <Filter>Display</Filter>
+    </ClCompile>
+    <ClCompile Include="Display\DisplayTexture.cpp">
+      <Filter>Display</Filter>
+    </ClCompile>
+    <ClCompile Include="Display\DisplayUserProperties.cpp">
+      <Filter>Display</Filter>
+    </ClCompile>
+    <ClCompile Include="AssetGenerator\MeshGenerator.cpp">
+      <Filter>AssetGenerator</Filter>
+    </ClCompile>
+    <ClCompile Include="AssetGenerator\MaterialGenerator.cpp">
+      <Filter>AssetGenerator</Filter>
+    </ClCompile>
+    <ClCompile Include="AssetGenerator\SceneEntityGenerator.cpp">
+      <Filter>AssetGenerator</Filter>
+    </ClCompile>
+    <ClCompile Include="OctreeGenerator\OctreeGenerator.cpp">
+      <Filter>OctreeGenerator</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FBXLoader.h" />
+    <ClInclude Include="Common.h" />
+    <ClInclude Include="Display\DisplayAnimation.h">
+      <Filter>Display</Filter>
+    </ClInclude>
+    <ClInclude Include="Display\DisplayCamera.h">
+      <Filter>Display</Filter>
+    </ClInclude>
+    <ClInclude Include="Display\DisplayCommon.h">
+      <Filter>Display</Filter>
+    </ClInclude>
+    <ClInclude Include="Display\DisplayGenericInfo.h">
+      <Filter>Display</Filter>
+    </ClInclude>
+    <ClInclude Include="Display\DisplayGlobalSettings.h">
+      <Filter>Display</Filter>
+    </ClInclude>
+    <ClInclude Include="Display\DisplayHierarchy.h">
+      <Filter>Display</Filter>
+    </ClInclude>
+    <ClInclude Include="Display\DisplayLight.h">
+      <Filter>Display</Filter>
+    </ClInclude>
+    <ClInclude Include="Display\DisplayLink.h">
+      <Filter>Display</Filter>
+    </ClInclude>
+    <ClInclude Include="Display\DisplayLODGroup.h">
+      <Filter>Display</Filter>
+    </ClInclude>
+    <ClInclude Include="Display\DisplayMarker.h">
+      <Filter>Display</Filter>
+    </ClInclude>
+    <ClInclude Include="Display\DisplayMaterial.h">
+      <Filter>Display</Filter>
+    </ClInclude>
+    <ClInclude Include="Display\DisplayMesh.h">
+      <Filter>Display</Filter>
+    </ClInclude>
+    <ClInclude Include="Display\DisplayNurb.h">
+      <Filter>Display</Filter>
+    </ClInclude>
+    <ClInclude Include="Display\DisplayPatch.h">
+      <Filter>Display</Filter>
+    </ClInclude>
+    <ClInclude Include="Display\DisplayPivotsAndLimits.h">
+      <Filter>Display</Filter>
+    </ClInclude>
+    <ClInclude Include="Display\DisplayPose.h">
+      <Filter>Display</Filter>
+    </ClInclude>
+    <ClInclude Include="Display\DisplayShape.h">
+      <Filter>Display</Filter>
+    </ClInclude>
+    <ClInclude Include="Display\DisplaySkeleton.h">
+      <Filter>Display</Filter>
+    </ClInclude>
+    <ClInclude Include="Display\DisplayTexture.h">
+      <Filter>Display</Filter>
+    </ClInclude>
+    <ClInclude Include="Display\DisplayUserProperties.h">
+      <Filter>Display</Filter>
+    </ClInclude>
+    <ClInclude Include="AssetGenerator\AssetGenerator.h">
+      <Filter>AssetGenerator</Filter>
+    </ClInclude>
+    <ClInclude Include="OctreeGenerator\OctreeGenerator.h">
+      <Filter>OctreeGenerator</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Display">
+      <UniqueIdentifier>{ea76fbff-f614-474a-ac83-42e686c0ee7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetGenerator">
+      <UniqueIdentifier>{cf871960-d9a3-4b15-88b2-c37b84d7c0a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OctreeGenerator">
+      <UniqueIdentifier>{8fd52320-bb68-4fd1-a0e1-746b0d4c3111}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+// Effect
+<effect>
+	diffuseSpecularEffect.txt
+</effect>
+
+// Texture
+<texture>
+	chess.png
+</texture>
+
+// Specular constat
+<shininess>
+	50
+</shininess>

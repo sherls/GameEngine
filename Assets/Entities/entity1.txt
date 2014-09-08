@@ -1,0 +1,9 @@
+// Mesh
+<mesh>
+	box.txt
+</mesh>
+
+// Material
+<material>
+	plainMaterial.txt
+</material>

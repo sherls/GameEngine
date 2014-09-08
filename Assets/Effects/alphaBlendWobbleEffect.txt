@@ -1,0 +1,20 @@
+// Vertex shader
+<vertexShader>
+	example.vp
+</vertexShader>
+
+// Fragment shader
+<fragmentShader>
+	alphaBlendWobble.fp
+</fragmentShader>
+
+// Render state
+<renderState>
+	alpha_blend
+</renderState>
+
+// Texture mode
+<textureMode>
+	diffuse_map
+	opaque_buffer
+</textureMode>

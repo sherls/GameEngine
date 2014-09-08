@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{D6C46158-B708-47BD-B1B0-DF534C909F1F}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>WorldEditor</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>
+    </LinkIncremental>
+    <IncludePath>$(DXSDK_DIR)Include\;$(SolutionDir)External\libconfig++\;$(SolutionDir)External\FBX_SDK\;$(SolutionDir)External\wxWidgets\;$(SolutionDir)External\Lib\wxWidgets\mswud\;$(SolutionDir)Utilities\_Source;$(SolutionDir)GameEngine\_Source;$(SolutionDir)RendererEngine\_Source;$(SolutionDir)Tools\FBXLoader;$(IncludePath)</IncludePath>
+    <LibraryPath>$(DXSDK_DIR)Lib\x86\;$(SolutionDir)External\Lib\;$(SolutionDir)External\libconfig++\;$(SolutionDir)External\Lib\wxWidgets\;$(LibraryPath)</LibraryPath>
+    <SourcePath>$(SolutionDir)Tools\FBXLoader;$(SourcePath)</SourcePath>
+    <OutDir>$(SolutionDir)WorldEditor\$(Configuration)\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>$(DXSDK_DIR)Include\;$(SolutionDir)External\libconfig++\;$(SolutionDir)External\FBX_SDK\;$(SolutionDir)External\wxWidgets\;$(SolutionDir)External\Lib\wxWidgets\mswud\;$(SolutionDir)Utilities\_Source;$(SolutionDir)GameEngine\_Source;$(SolutionDir)RendererEngine\_Source;$(SolutionDir)Tools\FBXLoader;$(IncludePath)</IncludePath>
+    <LibraryPath>$(DXSDK_DIR)Lib\x86\;$(SolutionDir)External\Lib\;$(SolutionDir)External\libconfig++\;$(SolutionDir)External\Lib\wxWidgets\;$(LibraryPath)</LibraryPath>
+    <SourcePath>$(SolutionDir)Tools\FBXLoader;$(SourcePath)</SourcePath>
+    <OutDir>$(SolutionDir)WorldEditor\$(Configuration)\</OutDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;WINVER=0x400;__WXMSW__;wxUSE_GUI=1;_CRT_SECURE_NO_DEPRECATE=1;_DEBUG;_WXDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>libfbxsdk-md.lib;d3d9.lib;d3dx9.lib;Utilities_$(Configuration).lib;GameEngine_$(Configuration).lib;RendererEngine_$(Configuration).lib;wxmsw30ud_core.lib;wxbase30ud.lib;wxmsw30ud_adv.lib;wxtiffd.lib;wxjpegd.lib;wxpngd.lib;wxzlibd.lib;wxregexud.lib;wxexpatd.lib;comctl32.lib;rpcrt4.lib;winmm.lib;advapi32.lib;wsock32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;WINVER=0x400;__WXMSW__;wxUSE_GUI=1;_CRT_SECURE_NO_DEPRECATE=1;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalDependencies>libfbxsdk-md.lib;d3d9.lib;d3dx9.lib;Utilities_$(Configuration).lib;GameEngine_$(Configuration).lib;RendererEngine_$(Configuration).lib;wxmsw30ud_core.lib;wxbase30ud.lib;wxmsw30ud_adv.lib;wxtiffd.lib;wxjpegd.lib;wxpngd.lib;wxzlibd.lib;wxregexud.lib;wxexpatd.lib;comctl32.lib;rpcrt4.lib;winmm.lib;advapi32.lib;wsock32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\FBXLoader\AssetGenerator\MaterialGenerator.cpp" />
+    <ClCompile Include="..\FBXLoader\AssetGenerator\MeshGenerator.cpp" />
+    <ClCompile Include="..\FBXLoader\AssetGenerator\SceneEntityGenerator.cpp" />
+    <ClCompile Include="..\FBXLoader\Common.cpp" />
+    <ClCompile Include="..\FBXLoader\OctreeGenerator\OctreeGenerator.cpp" />
+    <ClCompile Include="_Source\Controller\CameraController.cpp" />
+    <ClCompile Include="_Source\FBXLoader\FBXLoader.cpp" />
+    <ClCompile Include="_Source\GamePanel\GamePanel.cpp" />
+    <ClCompile Include="_Source\main.cpp" />
+    <ClCompile Include="_Source\MainFrame\MainFrame.cpp" />
+    <ClCompile Include="_Source\Panel\Panel.cpp" />
+    <ClCompile Include="_Source\WorkingPanel\WorkingPanel.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\FBXLoader\AssetGenerator\AssetGenerator.h" />
+    <ClInclude Include="..\FBXLoader\Common.h" />
+    <ClInclude Include="..\FBXLoader\OctreeGenerator\OctreeGenerator.h" />
+    <ClInclude Include="_Source\Controller\CameraController.h" />
+    <ClInclude Include="_Source\FBXLoader\FBXLoader.h" />
+    <ClInclude Include="_Source\GamePanel\GamePanel.h" />
+    <ClInclude Include="_Source\IDControl.h" />
+    <ClInclude Include="_Source\MainFrame\MainFrame.h" />
+    <ClInclude Include="_Source\Panel\Panel.h" />
+    <ClInclude Include="_Source\WorkingPanel\WorkingPanel.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

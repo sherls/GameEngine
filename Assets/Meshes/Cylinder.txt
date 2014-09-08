@@ -1,0 +1,1767 @@
+<vertex>
+84
+{
+	<position>
+		0.951057, -1, -0.309017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0.951057, 0, -0.309016
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.16744, 0.00116009
+	</uv>
+}
+{
+	<position>
+		0.951057, -1, -0.309017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0.951057, 0, -0.309016
+	</normal>
+	<tangent>
+		9.62184e-007, 0, -1
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.832559, 0.00116009
+	</uv>
+}
+{
+	<position>
+		0.951057, -1, -0.309017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, -1, 0
+	</normal>
+	<tangent>
+		0.999452, 0, -0.0331018
+	</tangent>
+	<biNormal>
+		-0.0331018, 0, -0.999452
+	</biNormal>
+	<uv>
+		0.895354, -0.542998
+	</uv>
+}
+{
+	<position>
+		-0.951057, -1, 0.309017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		-0.951057, 0, 0.309017
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.5, 0.00116009
+	</uv>
+}
+{
+	<position>
+		-0.951057, -1, 0.309017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, -1, -1.92885e-007
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.104646, -0.286082
+	</uv>
+}
+{
+	<position>
+		-0.809017, -1, 0.587785
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		-0.809017, 0, 0.587785
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.533256, 0.00116009
+	</uv>
+}
+{
+	<position>
+		-0.809017, -1, 0.587785
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, -1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.163692, -0.170198
+	</uv>
+}
+{
+	<position>
+		-0.587785, -1, 0.809017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		-0.587785, 0, 0.809017
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.566512, 0.00116009
+	</uv>
+}
+{
+	<position>
+		-0.587785, -1, 0.809017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, -1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.255658, -0.0782315
+	</uv>
+}
+{
+	<position>
+		-0.309017, -1, 0.951057
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		-0.309017, 0, 0.951057
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.599768, 0.00116009
+	</uv>
+}
+{
+	<position>
+		-0.309017, -1, 0.951057
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, -1, 3.44905e-014
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.371542, -0.0191856
+	</uv>
+}
+{
+	<position>
+		-2.98023e-008, -1, 1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 0, 1
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.633024, 0.00116009
+	</uv>
+}
+{
+	<position>
+		-2.98023e-008, -1, 1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, -1, 3.44905e-014
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.5, 0.00116009
+	</uv>
+}
+{
+	<position>
+		0.309017, -1, 0.951057
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0.309017, 0, 0.951056
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.66628, 0.00116009
+	</uv>
+}
+{
+	<position>
+		0.309017, -1, 0.951057
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, -1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.628458, -0.0191856
+	</uv>
+}
+{
+	<position>
+		0.587785, -1, 0.809017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0.587785, 0, 0.809017
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.699535, 0.00116009
+	</uv>
+}
+{
+	<position>
+		0.587785, -1, 0.809017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, -1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.744342, -0.0782315
+	</uv>
+}
+{
+	<position>
+		0.809017, -1, 0.587785
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0.809017, 0, 0.587785
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.732791, 0.00116009
+	</uv>
+}
+{
+	<position>
+		0.809017, -1, 0.587785
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, -1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.836308, -0.170198
+	</uv>
+}
+{
+	<position>
+		0.951057, -1, 0.309017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0.951057, 0, 0.309017
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.766047, 0.00116009
+	</uv>
+}
+{
+	<position>
+		0.951057, -1, 0.309017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, -1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.895354, -0.286082
+	</uv>
+}
+{
+	<position>
+		1, -1, 1.11022e-014
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		1, 0, 9.67004e-007
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.799303, 0.00116009
+	</uv>
+}
+{
+	<position>
+		1, -1, 1.11022e-014
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, -1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.9157, -0.41454
+	</uv>
+}
+{
+	<position>
+		0.809018, -1, -0.587786
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0.809017, 0, -0.587785
+	</normal>
+	<tangent>
+		-0.587785, 0, -0.809017
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.200696, 0.00116009
+	</uv>
+}
+{
+	<position>
+		0.809018, -1, -0.587786
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, -1, 0
+	</normal>
+	<tangent>
+		0.99926, 0, -0.0384786
+	</tangent>
+	<biNormal>
+		-0.0384786, 0, -0.999259
+	</biNormal>
+	<uv>
+		0.836309, -0.658882
+	</uv>
+}
+{
+	<position>
+		0.951057, 1, -0.309017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0.951057, 0, -0.309016
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.16744, 1.00134
+	</uv>
+}
+{
+	<position>
+		0.951057, 1, -0.309017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0.951057, 0, -0.309016
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.832559, 1.00134
+	</uv>
+}
+{
+	<position>
+		0.951057, 1, -0.309017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.895354, 1.543
+	</uv>
+}
+{
+	<position>
+		0.809018, 1, -0.587786
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0.809017, 0, -0.587785
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.200696, 1.00134
+	</uv>
+}
+{
+	<position>
+		0.809018, 1, -0.587786
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.836308, 1.65888
+	</uv>
+}
+{
+	<position>
+		0.587786, 1, -0.809018
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0.587785, 0, -0.809017
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.233952, 1.00134
+	</uv>
+}
+{
+	<position>
+		0.587786, 1, -0.809018
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.744342, 1.75085
+	</uv>
+}
+{
+	<position>
+		0.309017, 1, -0.951057
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.628458, 1.80989
+	</uv>
+}
+{
+	<position>
+		0.309017, 1, -0.951057
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0.309016, 0, -0.951057
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.267208, 1.00134
+	</uv>
+}
+{
+	<position>
+		-3.10862e-015, 1, -1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.5, 1.83024
+	</uv>
+}
+{
+	<position>
+		-3.10862e-015, 1, -1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 0, -1
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.300464, 1.00134
+	</uv>
+}
+{
+	<position>
+		-0.309017, 1, -0.951057
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		-0.309017, 0, -0.951057
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.33372, 1.00134
+	</uv>
+}
+{
+	<position>
+		-0.309017, 1, -0.951057
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.371542, 1.80989
+	</uv>
+}
+{
+	<position>
+		-0.587785, 1, -0.809017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		-0.587786, 0, -0.809017
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.366976, 1.00134
+	</uv>
+}
+{
+	<position>
+		-0.587785, 1, -0.809017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.255658, 1.75085
+	</uv>
+}
+{
+	<position>
+		-0.809017, 1, -0.587785
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		-0.809017, 0, -0.587785
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.400232, 1.00134
+	</uv>
+}
+{
+	<position>
+		-0.809017, 1, -0.587785
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.163692, 1.65888
+	</uv>
+}
+{
+	<position>
+		-0.951057, 1, -0.309017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		-0.951057, 0, -0.309017
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.433488, 1.00134
+	</uv>
+}
+{
+	<position>
+		-0.951057, 1, -0.309017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 1, 1.92885e-007
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.104646, 1.543
+	</uv>
+}
+{
+	<position>
+		-1, 1, 1.11022e-014
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		-1, 0, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.466744, 1.00134
+	</uv>
+}
+{
+	<position>
+		-1, 1, 1.11022e-014
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 1, 1.92885e-007
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.0842999, 1.41454
+	</uv>
+}
+{
+	<position>
+		0.587786, -1, -0.809018
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, -1, 0
+	</normal>
+	<tangent>
+		1, 6.77514e-016, -3.41004e-008
+	</tangent>
+	<biNormal>
+		-3.41004e-008, 1.92885e-008, -1
+	</biNormal>
+	<uv>
+		0.744343, -0.750848
+	</uv>
+}
+{
+	<position>
+		0.587786, -1, -0.809018
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0.587785, 0, -0.809017
+	</normal>
+	<tangent>
+		-0.809017, 0, -0.587785
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.233952, 0.00116009
+	</uv>
+}
+{
+	<position>
+		-0.951057, 1, 0.309017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		-0.951057, 0, 0.309017
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.5, 1.00134
+	</uv>
+}
+{
+	<position>
+		-0.951057, 1, 0.309017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.104646, 1.28608
+	</uv>
+}
+{
+	<position>
+		-0.809017, 1, 0.587785
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		-0.809017, 0, 0.587785
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.533256, 1.00134
+	</uv>
+}
+{
+	<position>
+		-0.809017, 1, 0.587785
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.163692, 1.1702
+	</uv>
+}
+{
+	<position>
+		-0.587785, 1, 0.809017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		-0.587785, 0, 0.809017
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.566512, 1.00134
+	</uv>
+}
+{
+	<position>
+		-0.587785, 1, 0.809017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.255658, 1.07823
+	</uv>
+}
+{
+	<position>
+		-0.309017, 1, 0.951057
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		-0.309017, 0, 0.951057
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.599768, 1.00134
+	</uv>
+}
+{
+	<position>
+		-0.309017, 1, 0.951057
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.371542, 1.01919
+	</uv>
+}
+{
+	<position>
+		-2.98023e-008, 1, 1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 0, 1
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.633024, 1.00134
+	</uv>
+}
+{
+	<position>
+		-2.98023e-008, 1, 1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 1, -3.44905e-014
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.5, 0.99884
+	</uv>
+}
+{
+	<position>
+		0.309017, 1, 0.951057
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0.309017, 0, 0.951056
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.66628, 1.00134
+	</uv>
+}
+{
+	<position>
+		0.309017, 1, 0.951057
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 1, -3.44905e-014
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.628458, 1.01919
+	</uv>
+}
+{
+	<position>
+		0.587785, 1, 0.809017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0.587785, 0, 0.809017
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.699535, 1.00134
+	</uv>
+}
+{
+	<position>
+		0.587785, 1, 0.809017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.744343, 1.07823
+	</uv>
+}
+{
+	<position>
+		0.809017, 1, 0.587785
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0.809017, 0, 0.587785
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.732791, 1.00134
+	</uv>
+}
+{
+	<position>
+		0.809017, 1, 0.587785
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.836309, 1.1702
+	</uv>
+}
+{
+	<position>
+		0.951057, 1, 0.309017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0.951057, 0, 0.309017
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.766047, 1.00134
+	</uv>
+}
+{
+	<position>
+		0.951057, 1, 0.309017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.895354, 1.28608
+	</uv>
+}
+{
+	<position>
+		1, 1, 1.11022e-014
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		1, 0, 9.67004e-007
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.799303, 1.00134
+	</uv>
+}
+{
+	<position>
+		1, 1, 1.11022e-014
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.9157, 1.41454
+	</uv>
+}
+{
+	<position>
+		0.309017, -1, -0.951057
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, -1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.628458, -0.809894
+	</uv>
+}
+{
+	<position>
+		0.309017, -1, -0.951057
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0.309016, 0, -0.951057
+	</normal>
+	<tangent>
+		-0.809017, 0, -0.587785
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.267208, 0.00116009
+	</uv>
+}
+{
+	<position>
+		-3.10862e-015, -1, 1.11022e-014
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, -1, -1.92885e-008
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.5, -0.431168
+	</uv>
+}
+{
+	<position>
+		-3.10862e-015, 1, 1.11022e-014
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 1, 1.92885e-008
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.5, 1.39791
+	</uv>
+}
+{
+	<position>
+		-3.10862e-015, -1, -1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, -1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.5, -0.83024
+	</uv>
+}
+{
+	<position>
+		-3.10862e-015, -1, -1
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, 0, -1
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.300464, 0.00116009
+	</uv>
+}
+{
+	<position>
+		-0.309017, -1, -0.951057
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		-0.309017, 0, -0.951057
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.33372, 0.00116009
+	</uv>
+}
+{
+	<position>
+		-0.309017, -1, -0.951057
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, -1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.371542, -0.809894
+	</uv>
+}
+{
+	<position>
+		-0.587785, -1, -0.809017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		-0.587786, 0, -0.809017
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.366976, 0.00116009
+	</uv>
+}
+{
+	<position>
+		-0.587785, -1, -0.809017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, -1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.255658, -0.750848
+	</uv>
+}
+{
+	<position>
+		-0.809017, -1, -0.587785
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		-0.809017, 0, -0.587785
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.400232, 0.00116009
+	</uv>
+}
+{
+	<position>
+		-0.809017, -1, -0.587785
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, -1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.163692, -0.658882
+	</uv>
+}
+{
+	<position>
+		-0.951057, -1, -0.309017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		-0.951057, 0, -0.309017
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.433488, 0.00116009
+	</uv>
+}
+{
+	<position>
+		-0.951057, -1, -0.309017
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, -1, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.104646, -0.542998
+	</uv>
+}
+{
+	<position>
+		-1, -1, 1.11022e-014
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		-1, 0, 0
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.466744, 0.00116009
+	</uv>
+}
+{
+	<position>
+		-1, -1, 1.11022e-014
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0, -1, -1.92885e-007
+	</normal>
+	<tangent>
+		-0.309016, 0, -0.951057
+	</tangent>
+	<biNormal>
+		0, -1, 0
+	</biNormal>
+	<uv>
+		0.0842999, -0.41454
+	</uv>
+}
+</vertex>
+
+<index>
+240
+	0, 23, 25
+	25, 23, 28
+	23, 47, 28
+	28, 47, 30
+	47, 69, 30
+	30, 69, 33
+	69, 73, 33
+	33, 73, 35
+	73, 74, 35
+	35, 74, 36
+	74, 76, 36
+	36, 76, 38
+	76, 78, 38
+	38, 78, 40
+	78, 80, 40
+	40, 80, 42
+	80, 82, 42
+	42, 82, 44
+	82, 3, 44
+	44, 3, 48
+	3, 5, 48
+	48, 5, 50
+	5, 7, 50
+	50, 7, 52
+	7, 9, 52
+	52, 9, 54
+	9, 11, 54
+	54, 11, 56
+	11, 13, 56
+	56, 13, 58
+	13, 15, 58
+	58, 15, 60
+	15, 17, 60
+	60, 17, 62
+	17, 19, 62
+	62, 19, 64
+	19, 21, 64
+	64, 21, 66
+	21, 1, 66
+	66, 1, 26
+	24, 2, 70
+	46, 24, 70
+	68, 46, 70
+	72, 68, 70
+	75, 72, 70
+	77, 75, 70
+	79, 77, 70
+	81, 79, 70
+	83, 81, 70
+	4, 83, 70
+	6, 4, 70
+	8, 6, 70
+	10, 8, 70
+	12, 10, 70
+	14, 12, 70
+	16, 14, 70
+	18, 16, 70
+	20, 18, 70
+	22, 20, 70
+	2, 22, 70
+	27, 29, 71
+	29, 31, 71
+	31, 32, 71
+	32, 34, 71
+	34, 37, 71
+	37, 39, 71
+	39, 41, 71
+	41, 43, 71
+	43, 45, 71
+	45, 49, 71
+	49, 51, 71
+	51, 53, 71
+	53, 55, 71
+	55, 57, 71
+	57, 59, 71
+	59, 61, 71
+	61, 63, 71
+	63, 65, 71
+	65, 67, 71
+	67, 27, 71
+</index>

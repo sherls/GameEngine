@@ -1,0 +1,19 @@
+// Effect
+<effect>
+	original.txt
+</effect>
+
+// Texture
+<texture>
+	railing_COLOR.dds
+</texture>
+
+// Specular constat
+<shininess>
+	50
+</shininess>
+
+// Environment reflectivity
+<reflectance>
+	0.5
+</reflectance>

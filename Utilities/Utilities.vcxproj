@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="_Source\BitWise\BitWise.cpp" />
+    <ClCompile Include="_Source\Debug\Debug.cpp" />
+    <ClCompile Include="_Source\Math\Math.cpp" />
+    <ClCompile Include="_Source\MemoryPool\MemoryPool.cpp" />
+    <ClCompile Include="_Source\Parser\EffectParser\EffectParser.cpp" />
+    <ClCompile Include="_Source\Parser\EntityParser\EntityParser.cpp" />
+    <ClCompile Include="_Source\Parser\MaterialParser\MaterialParser.cpp" />
+    <ClCompile Include="_Source\Parser\MeshParser\MeshParser.cpp" />
+    <ClCompile Include="_Source\Parser\ParserHelper.cpp" />
+    <ClCompile Include="_Source\Parser\SceneParser\SceneParser.cpp" />
+    <ClCompile Include="_Source\SmartPtr\SmartPtr.cpp" />
+    <ClCompile Include="_Source\StringHash\StringHash.cpp" />
+    <ClCompile Include="_Source\Time\Time.cpp" />
+    <ClCompile Include="_Source\Utilities.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="_Source\BitWise\BitWise.h" />
+    <ClInclude Include="_Source\Debug\Debug.h" />
+    <ClInclude Include="_Source\Math\Math.h" />
+    <ClInclude Include="_Source\Parser\SceneParser\SceneParser.h" />
+    <ClInclude Include="_Source\Target\Target.h" />
+    <ClInclude Include="_Source\Target\Target.Win32.h" />
+    <ClInclude Include="_Source\Time\Time.h" />
+    <ClInclude Include="_Source\UtilitiesDefault.h" />
+    <ClInclude Include="_Source\MemoryPool\MemoryPool.h" />
+    <ClInclude Include="_Source\Parser\EffectParser\EffectParser.h" />
+    <ClInclude Include="_Source\Parser\EntityParser\EntityParser.h" />
+    <ClInclude Include="_Source\Parser\MaterialParser\MaterialParser.h" />
+    <ClInclude Include="_Source\Parser\MeshParser\MeshParser.h" />
+    <ClInclude Include="_Source\Parser\ParserHelper.h" />
+    <ClInclude Include="_Source\Parser\TagList.h" />
+    <ClInclude Include="_Source\RingBuffer\RingBuffer.h" />
+    <ClInclude Include="_Source\Singleton\Singleton.h" />
+    <ClInclude Include="_Source\SmartPtr\SmartPtr.h" />
+    <ClInclude Include="_Source\StringHash\StringHash.h" />
+    <ClInclude Include="_source\UtilitiesTypes.h" />
+    <ClInclude Include="_Source\Utilities.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="_Source\BitWise\BitWise.inl" />
+    <None Include="_Source\MemoryPool\MemoryPool.inl" />
+    <None Include="_Source\Parser\EffectParser\EffectParser.inl" />
+    <None Include="_Source\Parser\EntityParser\EntityParser.inl" />
+    <None Include="_Source\Parser\MaterialParser\MaterialParser.inl" />
+    <None Include="_Source\Parser\MeshParser\MeshParser.inl" />
+    <None Include="_Source\Parser\SceneParser\SceneParser.inl" />
+    <None Include="_Source\RingBuffer\RingBuffer.inl" />
+    <None Include="_Source\Singleton\Singleton.inl" />
+    <None Include="_Source\SmartPtr\SmartPtr.inl" />
+    <None Include="_Source\StringHash\StringHash.inl" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{8B907665-69D9-4C8D-A9A4-84AAFD91BC8A}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>Utilities</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>$(SolutionDir)External\Lib\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <TargetName>$(ProjectName)_$(Configuration)</TargetName>
+    <IncludePath>$(DXSDK_DIR)Include\;$(IncludePath)</IncludePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>$(SolutionDir)External\Lib\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <TargetName>$(ProjectName)_$(Configuration)</TargetName>
+    <IncludePath>$(DXSDK_DIR)Include\;$(IncludePath)</IncludePath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>_WIN32;_LIB;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>
+      </AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>_WIN32;_LIB;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>
+      </AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

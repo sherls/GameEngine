@@ -1,0 +1,17 @@
+// Effect
+<effect>
+	diffuseSpecularNormalEffect.txt
+</effect>
+
+// Texture
+<texture>
+	example1.png
+</texture>
+<NormalMap>
+	exampleNormalMap.png
+</NormalMap>
+
+// Specular constat
+<shininess>
+	50
+</shininess>

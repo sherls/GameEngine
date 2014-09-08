@@ -1,0 +1,139 @@
+// Vertices
+<vertex>
+8
+{
+	<position>
+		-1.0, -1.0, -1.0
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		-1.0, -1.0, -1.0
+	</normal>
+	<uv>
+		0, 1
+	</uv>
+}
+{
+	<position>
+		-1.0, 1.0, -1.0
+	</position>
+	<colour>
+		255, 0, 0
+	</colour>
+	<normal>
+		-1.0, 1.0, -1.0
+	</normal>
+	<uv>
+		0, 0
+	</uv>
+}
+{
+	<position>
+		1.0, -1.0, -1.0
+	</position>
+	<colour>
+		0, 255, 0
+	</colour>
+	<normal>
+		1.0, -1.0, -1.0
+	</normal>
+	<uv>
+		1, 1
+	</uv>
+}
+{
+	<position>
+		1.0, 1.0, -1.0
+	</position>
+	<colour>
+		0, 0, 255
+	</colour>
+	<normal>
+		1.0, 1.0, -1.0
+	</normal>
+	<uv>
+		1, 0
+	</uv>
+}
+{
+	<position>
+		-1.0, -1.0, 1.0
+	</position>
+	<colour>
+		255, 255, 0
+	</colour>
+	<normal>
+		-1.0, -1.0, 1.0
+	</normal>
+	<uv>
+		1, 1
+	</uv>
+}
+{
+	<position>
+		-1.0, 1.0, 1.0
+	</position>
+	<colour>
+		255, 0, 255
+	</colour>
+	<normal>
+		-1.0, 1.0, 1.0
+	</normal>
+	<uv>
+		1, 0
+	</uv>
+}
+{
+	<position>
+		1.0, -1.0, 1.0
+	</position>
+	<colour>
+		0, 255, 255
+	</colour>
+	<normal>
+		1.0, -1.0, 1.0
+	</normal>
+	<uv>
+		0, 1
+	</uv>
+}
+{
+	<position>
+		1.0, 1.0, 1.0
+	</position>
+	<colour>
+		0, 0, 0
+	</colour>
+	<normal>
+		1.0, 1.0, 1.0
+	</normal>
+	<uv>
+		0, 0
+	</uv>
+}
+</vertex>
+
+// Indices
+<index>
+36
+	// front
+	0, 1, 2
+	2, 1, 3
+	// back
+	6, 7, 4
+	4, 7, 5
+	// left
+	4, 5, 0
+	0, 5, 1
+	// right
+	2, 3, 6
+	6, 3, 7
+	// top
+	1, 5, 7
+	1, 7, 3
+	// bottom
+	4, 0, 6
+	6, 0, 2
+</index>

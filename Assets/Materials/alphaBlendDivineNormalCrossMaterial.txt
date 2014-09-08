@@ -1,0 +1,15 @@
+// Effect
+<effect>
+	alphaBlendNormalEffect.txt
+</effect>
+
+// Texture
+<texture>
+	divine.png
+	cross_NRM.png
+</texture>
+
+// Transparency
+<transparency>
+	0.5
+</transparency>

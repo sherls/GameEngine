@@ -1,0 +1,9 @@
+// Mesh
+<mesh>
+	Cube.txt
+</mesh>
+
+// Material
+<material>
+	diffuseNormalExampleMaterial.txt
+</material>

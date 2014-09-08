@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="MainFrame">
+      <UniqueIdentifier>{a7d1e114-3b25-4e8d-8161-5cd534588715}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Panel">
+      <UniqueIdentifier>{263603bf-e617-419c-bad5-6667b5862553}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FBXLoader">
+      <UniqueIdentifier>{127a1ad3-ff09-4a19-b26b-9cc10ea522f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FBXLoader\AssetGenerator">
+      <UniqueIdentifier>{f8473982-47d1-49ef-b237-79279ae319e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FBXLoader\OctreeGenerator">
+      <UniqueIdentifier>{5d54cc24-2400-43cf-a17e-0ec98e281b82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GamePanel">
+      <UniqueIdentifier>{fcd896c9-4555-4d3d-8f29-2657f2559242}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Controller">
+      <UniqueIdentifier>{2f57ecc1-9f6e-4e6f-a4d5-42ad99714bcd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="WorkingPanel">
+      <UniqueIdentifier>{d2c3d457-d714-4635-8989-588e2e447b8e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="_Source\main.cpp" />
+    <ClCompile Include="_Source\MainFrame\MainFrame.cpp">
+      <Filter>MainFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="_Source\Panel\Panel.cpp">
+      <Filter>Panel</Filter>
+    </ClCompile>
+    <ClCompile Include="_Source\FBXLoader\FBXLoader.cpp">
+      <Filter>FBXLoader</Filter>
+    </ClCompile>
+    <ClCompile Include="..\FBXLoader\AssetGenerator\MaterialGenerator.cpp">
+      <Filter>FBXLoader\AssetGenerator</Filter>
+    </ClCompile>
+    <ClCompile Include="..\FBXLoader\AssetGenerator\MeshGenerator.cpp">
+      <Filter>FBXLoader\AssetGenerator</Filter>
+    </ClCompile>
+    <ClCompile Include="..\FBXLoader\AssetGenerator\SceneEntityGenerator.cpp">
+      <Filter>FBXLoader\AssetGenerator</Filter>
+    </ClCompile>
+    <ClCompile Include="..\FBXLoader\OctreeGenerator\OctreeGenerator.cpp">
+      <Filter>FBXLoader\OctreeGenerator</Filter>
+    </ClCompile>
+    <ClCompile Include="..\FBXLoader\Common.cpp">
+      <Filter>FBXLoader</Filter>
+    </ClCompile>
+    <ClCompile Include="_Source\GamePanel\GamePanel.cpp">
+      <Filter>GamePanel</Filter>
+    </ClCompile>
+    <ClCompile Include="_Source\Controller\CameraController.cpp">
+      <Filter>Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="_Source\WorkingPanel\WorkingPanel.cpp">
+      <Filter>WorkingPanel</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="_Source\MainFrame\MainFrame.h">
+      <Filter>MainFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\IDControl.h" />
+    <ClInclude Include="_Source\Panel\Panel.h">
+      <Filter>Panel</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\FBXLoader\FBXLoader.h">
+      <Filter>FBXLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="..\FBXLoader\AssetGenerator\AssetGenerator.h">
+      <Filter>FBXLoader\AssetGenerator</Filter>
+    </ClInclude>
+    <ClInclude Include="..\FBXLoader\OctreeGenerator\OctreeGenerator.h">
+      <Filter>FBXLoader\OctreeGenerator</Filter>
+    </ClInclude>
+    <ClInclude Include="..\FBXLoader\Common.h">
+      <Filter>FBXLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\GamePanel\GamePanel.h">
+      <Filter>GamePanel</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\Controller\CameraController.h">
+      <Filter>Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="_Source\WorkingPanel\WorkingPanel.h">
+      <Filter>WorkingPanel</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

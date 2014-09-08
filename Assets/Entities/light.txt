@@ -1,0 +1,9 @@
+// Mesh
+<mesh>
+	light.txt
+</mesh>
+
+// Material
+<material>
+	lightMaterial.txt
+</material>

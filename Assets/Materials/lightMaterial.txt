@@ -1,0 +1,19 @@
+// Effect
+<effect>
+	lightEffect.txt
+</effect>
+
+// Texture
+<texture>
+	chess.png
+</texture>
+
+// Specular constat
+<shininess>
+	50
+</shininess>
+
+// Environment reflectivity
+<reflectance>
+	0.5
+</reflectance>

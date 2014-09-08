@@ -1,0 +1,14 @@
+// Effect
+<effect>
+	alphaBinaryEffect.txt
+</effect>
+
+// Texture
+<texture>
+	yellow_flower.png
+</texture>
+
+// Transparency
+<transparency>
+	0.1
+</transparency>

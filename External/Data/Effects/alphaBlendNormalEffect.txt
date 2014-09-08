@@ -1,0 +1,20 @@
+// Vertex shader
+<vertexShader>
+	normalMap.vp
+</vertexShader>
+
+// Fragment shader
+<fragmentShader>
+	alphaBlendNormalMap.fp
+</fragmentShader>
+
+// Render state
+<renderState>
+	alpha_blend
+</renderState>
+
+// Texture mode
+<textureMode>
+	diffuse_map
+	normal_map
+</textureMode>

@@ -1,0 +1,91 @@
+// Vertices
+<vertex>
+4
+{
+	<position>
+		-15.0, 0.0, -15.0
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0.0, 1.0, 0.0
+	</normal>
+	<tangent>
+		1, 0, 0
+	</tangent>
+	<biNormal>
+		0, 0, 1
+	</biNormal>
+	<uv>
+		0, 1
+	</uv>
+}
+{
+	<position>
+		-15.0, 0.0, 15.0
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0.0, 1.0, 0.0
+	</normal>
+	<tangent>
+		1, 0, 0
+	</tangent>
+	<biNormal>
+		0, 0, 1
+	</biNormal>
+	<uv>
+		0, 0
+	</uv>
+}
+{
+	<position>
+		15.0, 0.0, -15.0
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0.0, 1.0, 0.0
+	</normal>
+	<tangent>
+		1, 0, 0
+	</tangent>
+	<biNormal>
+		0, 0, 1
+	</biNormal>
+	<uv>
+		1, 1
+	</uv>
+}
+{
+	<position>
+		15.0, 0.0, 15.0
+	</position>
+	<colour>
+		255, 255, 255
+	</colour>
+	<normal>
+		0.0, 1.0, 0.0
+	</normal>
+	<tangent>
+		1, 0, 0
+	</tangent>
+	<biNormal>
+		0, 0, 1
+	</biNormal>
+	<uv>
+		1, 0
+	</uv>
+}
+</vertex>
+
+// Indices
+<index>
+6
+	0, 1, 2
+	2, 1, 3
+</index>

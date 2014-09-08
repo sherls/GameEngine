@@ -1,0 +1,14 @@
+// Effect
+<effect>
+	alphaBinaryEffect.txt
+</effect>
+
+// Texture
+<texture>
+	pteridium.png
+</texture>
+
+// Transparency
+<transparency>
+	0.5
+</transparency>
